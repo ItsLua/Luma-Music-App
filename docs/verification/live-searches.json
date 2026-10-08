@@ -1,0 +1,185 @@
+{
+  "checkedAt": "2026-10-03T20:51:34.796Z",
+  "results": [
+    {
+      "query": "The Weeknd Blinding Lights",
+      "status": 200,
+      "tracks": [
+        {
+          "title": "The Weeknd - Blinding Lights (Official Video)",
+          "channel": "TheWeekndVEVO",
+          "version": "music-video",
+          "authenticity": "likely-official"
+        },
+        {
+          "title": "The Weeknd - Blinding Lights (Official Audio)",
+          "channel": "TheWeekndVEVO",
+          "version": "original",
+          "authenticity": "likely-official"
+        },
+        {
+          "title": "The-weeknd-blinding-lights-vintage-dance-choreography, Roberto-F",
+          "channel": "yazou2011",
+          "version": "unknown",
+          "authenticity": "unknown"
+        },
+        {
+          "title": "The Weeknd - Blinding Lights  - Vintage Dance Choreography - Roberto F",
+          "channel": "Roberto Formentini",
+          "version": "unknown",
+          "authenticity": "unknown"
+        },
+        {
+          "title": "The Weeknd: \"Blinding Lights\"",
+          "channel": "The Late Show with Stephen Colbert",
+          "version": "unknown",
+          "authenticity": "unknown"
+        }
+      ]
+    },
+    {
+      "query": "The Weeknd Blinding Lights slowed",
+      "status": 200,
+      "tracks": [
+        {
+          "title": "the weeknd - blinding lights (slowed + reverb)",
+          "channel": "PLAYYYPRETEND",
+          "version": "slowed",
+          "authenticity": "alternate"
+        },
+        {
+          "title": "the weeknd - blinding lights [slowed + reverb + extreme visuals]",
+          "channel": "nighttmuse",
+          "version": "slowed",
+          "authenticity": "alternate"
+        },
+        {
+          "title": "the weeknd - blinding lights (slowed + reverb)",
+          "channel": "i n s o m n i o",
+          "version": "slowed",
+          "authenticity": "alternate"
+        },
+        {
+          "title": "The Weeknd – Blinding Lights (Slowed Down)",
+          "channel": "Slowed Down RNB",
+          "version": "slowed",
+          "authenticity": "alternate"
+        },
+        {
+          "title": "the weeknd   blinding lights 𝙎𝙐𝙋𝙀𝙍 slowed in the 𝟖𝟎𝐬 w  live vocals (MIRROR)",
+          "channel": "Hanamura-ya",
+          "version": "slowed",
+          "authenticity": "alternate"
+        }
+      ]
+    },
+    {
+      "query": "Eagles Hotel California live",
+      "status": 200,
+      "tracks": [
+        {
+          "title": "Hotel California (Live at the Millennium Concert, Staples Center, Los Angeles, CA, 12/31/1999)...",
+          "channel": "Eagles - Topic",
+          "version": "live",
+          "authenticity": "alternate"
+        },
+        {
+          "title": "Hotel California (Live at Santa Monica Civic Auditorium, Santa Monica, CA, 7/29/1980) (2018...",
+          "channel": "Eagles - Topic",
+          "version": "live",
+          "authenticity": "alternate"
+        },
+        {
+          "title": "Hotel California (Live From The Forum, Inglewood, CA, 9/12, 14, 15/2018)",
+          "channel": "Eagles - Topic",
+          "version": "live",
+          "authenticity": "alternate"
+        },
+        {
+          "title": "Eagles - Hotel California (Live 1977) (Official Video) [HD]",
+          "channel": "Eagles",
+          "version": "live",
+          "authenticity": "alternate"
+        },
+        {
+          "title": "Eagles - Hotel California (Live at The Forum, Los Angeles, CA 1976) [Official Audio]",
+          "channel": "Eagles",
+          "version": "live",
+          "authenticity": "alternate"
+        }
+      ]
+    },
+    {
+      "query": "Juice WRLD unreleased",
+      "status": 200,
+      "tracks": [
+        {
+          "title": "Juice WRLD - Rental (unreleased) (freestyle) #juicewrld",
+          "channel": "Juice.Uploads",
+          "version": "unreleased",
+          "authenticity": "alternate"
+        },
+        {
+          "title": "Juice WRLD - Truth No Dare (Unreleased) [Prod. Max Chris]",
+          "channel": "HeyMax",
+          "version": "unreleased",
+          "authenticity": "alternate"
+        },
+        {
+          "title": "Juice WRLD - Paradox (Full Freestyle) (Unreleased) ",
+          "channel": "Onlyfiles",
+          "version": "unreleased",
+          "authenticity": "alternate"
+        },
+        {
+          "title": "Juice WRLD - Chimp (Full Freestyle) (Unreleased)",
+          "channel": "Onlyfiles",
+          "version": "unreleased",
+          "authenticity": "alternate"
+        },
+        {
+          "title": "Cursed - Juice WRLD (Unreleased)",
+          "channel": "Aidespade",
+          "version": "unreleased",
+          "authenticity": "alternate"
+        }
+      ]
+    },
+    {
+      "query": "Bruno Mars cover",
+      "status": 200,
+      "tracks": [
+        {
+          "title": "Risk It All (Bruno Mars) - Cover by Reinee",
+          "channel": "Reinee",
+          "version": "cover",
+          "authenticity": "cover"
+        },
+        {
+          "title": "Bruno Mars - Cover Songs Medley",
+          "channel": "zachornsey",
+          "version": "cover",
+          "authenticity": "cover"
+        },
+        {
+          "title": "The Best BRUNO MARS Covers on The Voice",
+          "channel": "The Voice Global",
+          "version": "cover",
+          "authenticity": "cover"
+        },
+        {
+          "title": "Risk It All - Bruno Mars (Full Cover) JASPERRR",
+          "channel": "Jasper Lacson",
+          "version": "cover",
+          "authenticity": "cover"
+        },
+        {
+          "title": "Bruno Mars Covers 'Your Love' (The Outfield)",
+          "channel": "SPIN",
+          "version": "cover",
+          "authenticity": "cover"
+        }
+      ]
+    }
+  ]
+}
